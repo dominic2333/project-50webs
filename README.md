@@ -1,7 +1,5 @@
 # 50 天学习 50 个项目 - HTML/CSS and JavaScript
 
-所有项目如下所示【往下看，最后面，有一个神器】：
-
 |  #  | 项目                                                                                                                     | 在线演示                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/didiaohu/50projects50days/tree/main/expanding-cards)                             | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
