@@ -54,24 +54,3 @@
 | 48  | [Random Image Feed](https://github.com/didiaohu/50projects50days/tree/main/random-image-generator)                         | [Live Demo](https://50projects50days.com/projects/random-image-feed/)             |
 | 49  | [Todo List](https://github.com/didiaohu/50projects50days/tree/main/todo-list)                                         | [Live Demo](https://50projects50days.com/projects/todo-list/)                     |
 | 50  | [Insect Catch Game](https://github.com/didiaohu/50projects50days/tree/main/insect-catch-game)                         | [Live Demo](https://50projects50days.com/projects/insect-catch-game/)             |
-
-
-## 推荐一个【压箱多年的经典网站】
-
-任何付费网课、电子书，全部可以免费查到，终身免费学习，这么多年压箱，从未告诉过别人。想获得网站地址的朋友，加我微信【ftd2015hu】，我可以忍痛告诉你 ！！！
-
-![](https://cdn.nlark.com/yuque/0/2021/png/296593/1626427642697-2491addc-7fc3-4aec-b913-25488605b55f.png)
-
-![](https://cdn.nlark.com/yuque/0/2021/png/296593/1626427710757-c8b4cafa-fb7e-4e60-83e2-72534b055c36.png)
-
-![](https://cdn.nlark.com/yuque/0/2021/png/296593/1626427906335-12bc0c84-666c-4ebc-acc7-ba1052fb2df4.png)
-
-![](https://cdn.nlark.com/yuque/0/2021/png/296593/1626427981068-c6fb7fd6-354b-40b8-9316-1a006e3fb2f9.png)
-
-![](https://cdn.nlark.com/yuque/0/2021/png/296593/1626428059762-eec16427-2d50-402c-a79b-fdc019da0e5e.png)
-
-![](https://cdn.nlark.com/yuque/0/2021/png/296593/1626428139250-3807bf23-1e41-48dc-9b26-c92e24577760.png)
-
-![](https://cdn.nlark.com/yuque/0/2021/png/296593/1626428196581-c8c04e26-3f67-45fd-bce3-609c5f26d327.png)
-
-![](https://cdn.nlark.com/yuque/0/2021/png/296593/1626428297936-d2d1eb80-cbd1-4a9c-9234-d8f6ff7b5746.png)
